@@ -1,0 +1,16 @@
+{
+  "name": "student-registry",
+  "version": "1.0.0",
+  "description": "Mobile-friendly modern Student Registry application with full CRUD capabilities",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "student-registry",
+    "student-management",
+    "mobile-friendly"
+  ],
+  "author": "",
+  "license": "MIT"
+}
